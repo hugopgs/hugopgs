@@ -8,17 +8,14 @@
 - 🎂 **My age** : 22 ans
 - 🎓 **My school** : Telecom Physique Strasbourg 
 - 📍 **My localisation** : 🇫🇷Strasbourg / 🇯🇵Osaka
-🇫🇷jp
 ---
-
 
 ## 💡 My projects
 
-- 🌐 [Shadow spectroscopy](https://github.com/aaarthurr/ft_transcendence) : Implementation of shadow specttroscopy to determine the energy gap of Hamiltonian.
-- 🎮 [cub3d](https://github.com/aaarthurr/42cub3d) : Jeu comme doom, utilisant la technologie raycasting.
-- 📩 [ft_IRC](https://github.com/aaarthurr/42_IRC) : Systeme de communication avec le protocole IRC.
-
----
+- 🌐 [Shadow spectroscopy](https://github.com/hugopgs/Shadow_Spectroscopy) : Implementation of shadow spectroscopy to determine the energy gap of Hamiltonian.
+- 🎮 [Clifford gate generator](https://github.com/hugopgs/Clifford_gate_generator) : Set of quantum operations that map the set of n-fold Pauli group products into itself.
+- 📩 [Intel_realsenseD400_3d_Acquisition](https://github.com/hugopgs/Intel_realsenseD400_3d_Acquisition) :  Acquisition of 3D model with an Intel realsensD400 for robotic task planning using ROS2.
+- 📩 [Double pendulum simulation](https://github.com/hugopgs/Double-pendulum-simulation-with-Runge-Kutta-4): Implementation of the Runge-Kutta-4 resolution method to simulate a double pendulum.
 
 
 ## 💼 Compétences
@@ -40,19 +37,6 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 
-
-
-### 📊 The languages I use the most
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=hugopgs&layout=compact&theme=radical)
-
----
-
-## 📈 My Github
-
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=hugopgs&show_icons=true&theme=radical)
-
----
 
 ## 🏆 Badges et accomplissements
 
