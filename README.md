@@ -12,10 +12,10 @@
 
 ## 💡 My projects
 
-- 🌐 [Shadow spectroscopy](https://github.com/hugopgs/Shadow_Spectroscopy) : Implementation of shadow spectroscopy to determine the energy gap of Hamiltonian.
-- 🎮 [Clifford gate generator](https://github.com/hugopgs/Clifford_gate_generator) : Set of quantum operations that map the set of n-fold Pauli group products into itself.
-- 📩 [Intel_realsenseD400_3d_Acquisition](https://github.com/hugopgs/Intel_realsenseD400_3d_Acquisition) :  Acquisition of 3D model with an Intel realsensD400 for robotic task planning using ROS2.
-- 📩 [Double pendulum simulation](https://github.com/hugopgs/Double-pendulum-simulation-with-Runge-Kutta-4): Implementation of the Runge-Kutta-4 resolution method to simulate a double pendulum.
+- 💻 [Shadow spectroscopy](https://github.com/hugopgs/Shadow_Spectroscopy) : Implementation of shadow spectroscopy to determine the energy gap of Hamiltonian.
+- 💻 [Clifford gate generator](https://github.com/hugopgs/Clifford_gate_generator) : Set of quantum operations that map the set of n-fold Pauli group products into itself.
+- 📷 [Intel_realsenseD400_3d_Acquisition](https://github.com/hugopgs/Intel_realsenseD400_3d_Acquisition) :  Acquisition of 3D model with an Intel realsensD400 for robotic task planning using ROS2.
+- ⚖️ [Double pendulum simulation](https://github.com/hugopgs/Double-pendulum-simulation-with-Runge-Kutta-4): Implementation of the Runge-Kutta-4 resolution method to simulate a double pendulum.
 
 
 ## 💼 Compétences
@@ -38,10 +38,11 @@
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 
 
-## 🏆 Badges et accomplissements
+## 🏆 Certification and achievement
 
-- 💎 Concours : Piscine de l'école 42 !
-- 🥇 Hackatons : 1391eme "CodinGame Summer Challenge 2024 by Fiverr"
+- :page_facing_up: IBM_Learning : "Basics of Quantum Information"  !
+- :page_facing_up: Telecom physique strasbourg : "Certificate of student commitment"
+- 🌐: TOEIC: 915/995 (2024)
 
 ---
 
