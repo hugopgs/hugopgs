@@ -2,7 +2,7 @@
 
 ---
 
-## 🙋 A propos de Moi
+## 🙋 About me
 
 - 😄 **My name** : Hugo PAGES
 - 🎂 **My age** : 22 ans
@@ -14,7 +14,7 @@
 
 ## 💡 My projects
 
-- 🌐 [Shadow spectroscopy](https://github.com/aaarthurr/ft_transcendence) : Projet de creation d'un site pour jouer a pong en ligne.
+- 🌐 [Shadow spectroscopy](https://github.com/aaarthurr/ft_transcendence) : Implementation of shadow specttroscopy to determine the energy gap of Hamiltonian.
 - 🎮 [cub3d](https://github.com/aaarthurr/42cub3d) : Jeu comme doom, utilisant la technologie raycasting.
 - 📩 [ft_IRC](https://github.com/aaarthurr/42_IRC) : Systeme de communication avec le protocole IRC.
 
