@@ -20,7 +20,7 @@
 
 ## 💼 Compétences
 
-### 🔧 Langages backend et frontend
+### 🔧 Langages 
 
 **Backend :**
 
