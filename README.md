@@ -1,4 +1,4 @@
-## 👾 Welcome to my Github page
+ ## 👾 Welcome to my Github page
 
 ---
 
@@ -49,5 +49,5 @@
 ## 📫 Contact me
 
 - **Email** : hugo.pages@etu.unistra.fr
-- **LinkedIn** : [Mon profil LinkedIn](www.linkedin.com/in/hugopages18) 
+- **LinkedIn** : www.linkedin.com/in/hugopages18
 ---
