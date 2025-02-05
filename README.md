@@ -5,7 +5,7 @@
 ## 🙋 About me
 
 - 😄 **My name** : Hugo PAGES
-- 🎂 **My age** : 22 ans
+- 🎂 **My age** : 22
 - 🎓 **My school** : Telecom Physique Strasbourg 
 - 📍 **My localisation** : 🇫🇷Strasbourg / 🇯🇵Osaka
 ---
