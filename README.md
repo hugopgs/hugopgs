@@ -41,9 +41,6 @@
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/594d0a0c-Canonical%20Ubuntu%20Dark.svg" alt="ubuntu" width="80" height="50"/> </a>
 <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
 
-## 📈 Github use
-
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=hugopgs&show_icons=true&theme=radical)
 
 ---
 ## 🏆 Certification and achievement
