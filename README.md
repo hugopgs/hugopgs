@@ -14,7 +14,7 @@
 
 ## 💡 My projects
 
-- 💻 [TE-PAI Shadow spectroscopy]([(https://github.com/hugopgs/TE-PAI_shadow_spectroscopy]) : Implementation of shadow spectroscopy to determine the energy gap of Hamiltonian.
+- 💻 [TE-PAI Shadow spectroscopy](https://github.com/hugopgs/TE-PAI_shadow_spectroscopy) : Implementation of shadow spectroscopy to determine the energy gap of Hamiltonian.
 - 💻 [L432_Serial_Communication](https://github.com/hugopgs/L432_Serial_Communication) : Facilitates serial communication between a computer and the Nucleo L432KC microcontroller board..
 - 📷 [Intel_realsenseD400_3d_Acquisition](https://github.com/hugopgs/Intel_realsenseD400_3d_Acquisition) :  Acquisition of 3D model with an Intel realsensD400 for robotic task planning using ROS2.
 - ⚖️ [Double pendulum simulation](https://github.com/hugopgs/Double-pendulum-simulation-with-Runge-Kutta-4): Implementation of the Runge-Kutta-4 resolution method to simulate a double pendulum.
